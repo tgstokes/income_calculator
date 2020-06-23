@@ -1,0 +1,12 @@
+Income, 30000
+Income Bonus, 0
+Salary Sacrifice, -104.4
+Pension Contribution, 4%
+Fuel Miles, 4455
+Fuel MPG, 41.2
+Petrol Price, 1.23
+Student Loan Threshold, 26575
+20% Tax Threshold, 12500
+40% Tax Threshold, 50000
+45% Tax Threshold, 150000
+NI Threshold, 9504
